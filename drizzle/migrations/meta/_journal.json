@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790677235889,
+      "tag": "0000_vinetka_orders_and_telegram_users",
+      "breakpoints": true
+    }
+  ]
+}
